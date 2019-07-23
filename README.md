@@ -1,7 +1,4 @@
-# 2019 MolSSI Software Summer School
+# MolSSI 2019 software summer school
 
-This repository contains files for day 2 of the MolSSI Software Summer School
+This is the work for software summer school day 2
 
-## Day 2 topics
-1. QC Archive
-2. git
